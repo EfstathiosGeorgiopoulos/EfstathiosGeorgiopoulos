@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EfstathiosGeorgiopoulos
 - 👀 I’m interested in coding, physics, maths and Electronic design
-- 🌱 I’m currently learning VHDL
+- 🌱 I’m studing in UoP Electrical and Computer Engineering 
 - 💞️ I’m looking to collaborate on C++ or Electronic design projects
 - 📫 Reach me by sending an email on efgeorgiopoulos@gmail.com
 
